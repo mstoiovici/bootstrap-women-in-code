@@ -1,3 +1,20 @@
 h1{
   font-family:"Vast Shadow", cursive;
 }
+
+@media screen and (min-width:768px){
+  h1{
+     font-size: 4rem;
+  }
+}
+
+@media screen and (min-width:768px){
+  #content .row.align-items-center{
+    min-height:600px;
+  }
+}
+@media screen and (min-width:1100px){
+  #content .row.align-items-center{
+    min-height:950px;
+  }
+}
