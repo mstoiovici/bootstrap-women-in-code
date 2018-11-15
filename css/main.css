@@ -1,3 +1,6 @@
+.wrapper{
+  background-color:grey;
+}
 .title-font {
   font-family: 'M PLUS Rounded 1c', sans-serif;
   font-size:2rem;
@@ -27,7 +30,4 @@
   background-size: cover;
   border-radius: 0;
   min-height: 300px;
-}
-.wrapper{
-  background-color:grey;
 }
