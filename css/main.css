@@ -1,10 +1,10 @@
 h1{
-  font-family:"Vast Shadow", cursive;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 
 @media screen and (min-width:768px){
   h1{
-     font-size: 4rem;
+     font-size: 6rem;
   }
 }
 
