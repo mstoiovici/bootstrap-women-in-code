@@ -38,6 +38,10 @@
   border-radius: 0;
   min-height: 300px;
 }
+.navbar-dark .navbar-nav .nav-link {
+  color:black;
+  font-size:1.5rem;
+}
 
 /*.border {
   border: 5px solid #28a745 !important;
@@ -51,3 +55,16 @@
     border-left: 10px solid #ccc;
     margin: 1.5em 10px;
   }
+  .carousel{
+    text-align:center;
+    margin-bottom:30px;
+  }
+  .carousel-caption h3{
+    font-family: "vast Shadow",cursive;
+    color:white;
+  }
+
+.w-100{
+  width:65%!important;
+  height:65%!important;
+}
